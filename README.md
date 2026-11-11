@@ -50,7 +50,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 ### All repositories
 
 <details>
-<summary><b>Browse all 16 repositories by category</b></summary>
+<summary><b>Browse all 17 repositories by category</b></summary>
 
 **Tools and data for the whole industry**
 
@@ -67,6 +67,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 | Repository | What you get |
 | --- | --- |
 | [**referral-engine**](https://github.com/moonetix/referral-engine) | Referral codes, attribution with fraud checks, commission plans and an append-only ledger with clawbacks, in JavaScript and PHP |
+| [**signup-guard**](https://github.com/moonetix/signup-guard) | Explainable sign-up risk checks: email normalization, disposable domains, datacenter and Tor IPs, velocity limits |
 
 **Guides and lists**
 
