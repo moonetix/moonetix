@@ -50,7 +50,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 ### All repositories
 
 <details>
-<summary><b>Browse all 19 repositories by category</b></summary>
+<summary><b>Browse all 21 repositories by category</b></summary>
 
 **Tools and data for the whole industry**
 
@@ -91,6 +91,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 
 | Repository | What you get |
 | --- | --- |
+| [**rewards-site-starter**](https://github.com/moonetix/rewards-site-starter) | A minimal rewards site in plain PHP 8 and SQLite, with manual payouts |
 | [**moonetix-offerwall-wordpress**](https://github.com/moonetix/moonetix-offerwall-wordpress) | The official Moonetix Offerwall plugin for WordPress |
 | [**offerwall-nextjs-starter**](https://github.com/moonetix/offerwall-nextjs-starter) | A Next.js Earn page with a signed offerwall link and a postback route |
 
@@ -98,6 +99,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 
 | Repository | What you get |
 | --- | --- |
+| [**offerwall-flutter-example**](https://github.com/moonetix/offerwall-flutter-example) | Flutter app with a token and postback server |
 | [**telegram-mini-app-offerwall**](https://github.com/moonetix/telegram-mini-app-offerwall) | Telegram Mini App and bot with server-side initData checks |
 | [**discord-rewards-bot**](https://github.com/moonetix/discord-rewards-bot) | Discord app with a private /earn command and a coin balance |
 
