@@ -50,7 +50,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 ### All repositories
 
 <details>
-<summary><b>Browse all 26 repositories by category</b></summary>
+<summary><b>Browse all 28 repositories by category</b></summary>
 
 **Tools and data for the whole industry**
 
@@ -86,6 +86,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 | [**offerwall-laravel**](https://github.com/moonetix/offerwall-laravel) | Laravel 12 Earn page and postback route |
 | [**offerwall-django**](https://github.com/moonetix/offerwall-django) | Django 5.2 Earn page and postback view |
 | [**offerwall-express**](https://github.com/moonetix/offerwall-express) | Express 5 on Node 22 with a node:sqlite ledger |
+| [**offerwall-firebase-functions**](https://github.com/moonetix/offerwall-firebase-functions) | Cloud Functions (2nd gen) with a Firestore ledger |
 | [**offerwall-supabase**](https://github.com/moonetix/offerwall-supabase) | Edge Functions and an atomic, RLS-safe Postgres ledger |
 
 **Websites**
@@ -103,6 +104,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 | Repository | What you get |
 | --- | --- |
 | [**offerwall-flutter-example**](https://github.com/moonetix/offerwall-flutter-example) | Flutter app with a token and postback server |
+| [**offerwall-unity-example**](https://github.com/moonetix/offerwall-unity-example) | Unity sample with a coin HUD |
 | [**offerwall-godot**](https://github.com/moonetix/offerwall-godot) | Godot 4 example with a server-signed link |
 | [**offerwall-chrome-extension**](https://github.com/moonetix/offerwall-chrome-extension) | Manifest V3 extension that opens the offerwall in a new tab, no remote code |
 | [**telegram-mini-app-offerwall**](https://github.com/moonetix/telegram-mini-app-offerwall) | Telegram Mini App and bot with server-side initData checks |
