@@ -50,7 +50,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 ### All repositories
 
 <details>
-<summary><b>Browse all 30 repositories by category</b></summary>
+<summary><b>Browse all 32 repositories by category</b></summary>
 
 **Tools and data for the whole industry**
 
@@ -99,6 +99,12 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 | [**offerwall-vue-nuxt**](https://github.com/moonetix/offerwall-vue-nuxt) | A Nuxt 4 Earn page with server routes |
 | [**offerwall-react-vite**](https://github.com/moonetix/offerwall-react-vite) | React and Vite with a small Node.js backend |
 
+**Mobile SDKs**
+
+| Repository | What you get |
+| --- | --- |
+| [**moonetix-ios-sdk**](https://github.com/moonetix/moonetix-ios-sdk) | iOS install guide, SwiftUI sample and a tested token endpoint |
+
 **Apps, games and communities**
 
 | Repository | What you get |
@@ -109,6 +115,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 | [**offerwall-godot**](https://github.com/moonetix/offerwall-godot) | Godot 4 example with a server-signed link |
 | [**offerwall-html5-game**](https://github.com/moonetix/offerwall-html5-game) | Phaser 3 browser game with an Earn coins pop-up |
 | [**offerwall-chrome-extension**](https://github.com/moonetix/offerwall-chrome-extension) | Manifest V3 extension that opens the offerwall in a new tab, no remote code |
+| [**offerwall-electron**](https://github.com/moonetix/offerwall-electron) | Electron desktop app with a locked-down offerwall window |
 | [**telegram-mini-app-offerwall**](https://github.com/moonetix/telegram-mini-app-offerwall) | Telegram Mini App and bot with server-side initData checks |
 | [**discord-rewards-bot**](https://github.com/moonetix/discord-rewards-bot) | Discord app with a private /earn command and a coin balance |
 
