@@ -50,7 +50,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 ### All repositories
 
 <details>
-<summary><b>Browse all 32 repositories by category</b></summary>
+<summary><b>Browse all 34 repositories by category</b></summary>
 
 **Tools and data for the whole industry**
 
@@ -103,7 +103,9 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 
 | Repository | What you get |
 | --- | --- |
+| [**moonetix-android-sdk**](https://github.com/moonetix/moonetix-android-sdk) | Android SDK source, Kotlin and Java |
 | [**moonetix-ios-sdk**](https://github.com/moonetix/moonetix-ios-sdk) | iOS install guide, SwiftUI sample and a tested token endpoint |
+| [**moonetix-flutter**](https://github.com/moonetix/moonetix-flutter) | Flutter plugin for Android and iOS |
 
 **Apps, games and communities**
 
