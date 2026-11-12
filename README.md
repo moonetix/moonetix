@@ -83,7 +83,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 | Repository | What you get |
 | --- | --- |
 | [**offerwall-postback-handlers**](https://github.com/moonetix/offerwall-postback-handlers) | Postback handlers in PHP, Node.js, Python and Java: hash check, credit once, reversals |
-| [**offerwall-laravel**](https://github.com/moonetix/offerwall-laravel) | Laravel 12 Earn page and postback route |
+| [**offerwall-laravel**](https://github.com/moonetix/offerwall-laravel) | Laravel 13 Earn page and postback route |
 | [**offerwall-django**](https://github.com/moonetix/offerwall-django) | Django 6.1 Earn page and postback view |
 | [**offerwall-express**](https://github.com/moonetix/offerwall-express) | Express 5 on Node 22 with a node:sqlite ledger |
 | [**offerwall-firebase-functions**](https://github.com/moonetix/offerwall-firebase-functions) | Cloud Functions (2nd gen) with a Firestore ledger |
