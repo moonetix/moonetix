@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://moonetix.com/register"><img src="https://img.shields.io/badge/Sign%20up-free-7DF2A8?style=for-the-badge&labelColor=0A0C0B" alt="Sign up free"></a>
+  <a href="https://moonetix.com/register?from=github-profile"><img src="https://img.shields.io/badge/Sign%20up-free-7DF2A8?style=for-the-badge&labelColor=0A0C0B" alt="Sign up free"></a>
   <a href="https://docs.moonetix.com"><img src="https://img.shields.io/badge/Docs-docs.moonetix.com-7DF2A8?style=for-the-badge&labelColor=0A0C0B" alt="Docs"></a>
   <a href="https://moonetix.com/academy"><img src="https://img.shields.io/badge/Academy-guides-7DF2A8?style=for-the-badge&labelColor=0A0C0B" alt="Academy"></a>
   <a href="https://moonetix.com/tools"><img src="https://img.shields.io/badge/Free-tools-7DF2A8?style=for-the-badge&labelColor=0A0C0B" alt="Free tools"></a>
@@ -50,7 +50,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 ### All repositories
 
 <details>
-<summary><b>Browse all 17 repositories by category</b></summary>
+<summary><b>Browse all 18 repositories by category</b></summary>
 
 **Tools and data for the whole industry**
 
@@ -68,6 +68,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 | --- | --- |
 | [**referral-engine**](https://github.com/moonetix/referral-engine) | Referral codes, attribution with fraud checks, commission plans and an append-only ledger with clawbacks, in JavaScript and PHP |
 | [**signup-guard**](https://github.com/moonetix/signup-guard) | Explainable sign-up risk checks: email normalization, disposable domains, datacenter and Tor IPs, velocity limits |
+| [**gamification-kit**](https://github.com/moonetix/gamification-kit) | Daily check-ins, streaks, XP levels, quests, leaderboards and caps that stay correct across time zones, in JavaScript and PHP |
 
 **Guides and lists**
 
@@ -103,7 +104,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 
 ### Start in 3 steps
 
-1. [Sign up free](https://moonetix.com/register) and add your site, app or community.
+1. [Sign up free](https://moonetix.com/register?from=github-profile) and add your site, app or community.
 2. Pick an integration from [the docs](https://docs.moonetix.com) or copy one of the repos above.
 3. Credit rewards from the signed postback and test it with the [postback hash checker](https://moonetix.com/tools/postback-hash-checker).
 
@@ -125,4 +126,4 @@ Your server creates a short, single-use session and the SDK opens the offerwall 
 
 **Follow** [X](https://x.com/ofcsharknetwork) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/company/sharknetwork) &nbsp;|&nbsp; [Facebook](https://www.facebook.com/officialsharknetwork) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/officialsharknetwork/)
 
-<sub>Ready to add the offerwall? <a href="https://moonetix.com/register">Create a free publisher account</a>.</sub>
+<sub>Ready to add the offerwall? <a href="https://moonetix.com/register?from=github-profile">Create a free publisher account</a>.</sub>
