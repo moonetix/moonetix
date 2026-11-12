@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img alt="Moonetix: pay-per-result affiliate network. Add the offerwall to your website, app, game or community and earn for every completed offer." src="assets/header-light.svg" width="100%">
+    <img alt="Moonetix: affiliate network for publishers. Monetize your website, app, game or community and earn from every completed offer." src="assets/header-light.svg" width="100%">
   </picture>
 </a>
 
@@ -13,7 +13,7 @@
   <a href="https://moonetix.com/tools"><img src="https://img.shields.io/badge/Free-tools-7DF2A8?style=for-the-badge&labelColor=0A0C0B" alt="Free tools"></a>
 </p>
 
-**Moonetix** is a pay-per-result affiliate network for publishers. Add the Moonetix offerwall to your website, app, game or community: your users earn **your own currency** by completing offers, and **you earn for every completed offer**. No banner slots: your users open the offerwall when they want to earn.
+**Moonetix** is an affiliate network for publishers. Monetize your website, app, game or community and **earn from every completed offer**. Show offers through the hosted offerwall, the Offers API or the native SDKs, and reward your users in **your own currency**.
 
 - **Plug in anywhere:** signed offerwall link or iframe, floating Earn button, Offers API, Reporting API
 - **Native SDKs:** Android, iOS, Unity, Flutter and React Native, with no key shipped inside your app
