@@ -50,7 +50,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 ### All repositories
 
 <details>
-<summary><b>Browse all 25 repositories by category</b></summary>
+<summary><b>Browse all 26 repositories by category</b></summary>
 
 **Tools and data for the whole industry**
 
@@ -104,6 +104,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 | --- | --- |
 | [**offerwall-flutter-example**](https://github.com/moonetix/offerwall-flutter-example) | Flutter app with a token and postback server |
 | [**offerwall-godot**](https://github.com/moonetix/offerwall-godot) | Godot 4 example with a server-signed link |
+| [**offerwall-chrome-extension**](https://github.com/moonetix/offerwall-chrome-extension) | Manifest V3 extension that opens the offerwall in a new tab, no remote code |
 | [**telegram-mini-app-offerwall**](https://github.com/moonetix/telegram-mini-app-offerwall) | Telegram Mini App and bot with server-side initData checks |
 | [**discord-rewards-bot**](https://github.com/moonetix/discord-rewards-bot) | Discord app with a private /earn command and a coin balance |
 
