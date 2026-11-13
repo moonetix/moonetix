@@ -58,7 +58,7 @@ Everything is MIT licensed unless the repository says otherwise. Issues and pull
 | --- | --- |
 | [**datacenter-ip-ranges**](https://github.com/moonetix/datacenter-ip-ranges) | Cloud, hosting and CDN IP ranges from official provider feeds, updated daily, with Node and PHP lookup |
 | [**postback-tester**](https://github.com/moonetix/postback-tester) | Send signed test postbacks to any reward endpoint: credits, reversals, retries, races, tampered signatures |
-| [**affiliate-postback-macros**](https://github.com/moonetix/affiliate-postback-macros) | Postback macros, signatures and reversal rules for 8 tracking platforms and 9 offerwall networks, with sources |
+| [**affiliate-postback-macros**](https://github.com/moonetix/affiliate-postback-macros) | Postback macros, signatures and reversal rules for 8 tracking platforms and 30 offerwall and survey networks, with sources |
 | [**country-tiers**](https://github.com/moonetix/country-tiers) | Tier 1, 2 and 3 countries as JSON and CSV with ISO codes, World Bank income groups and EU/EEA flags |
 | [**reward-economy-kit**](https://github.com/moonetix/reward-economy-kit) | Integer-only math for rewards currencies: payout to points, rounding, bonuses, reversals, cash-out |
 
